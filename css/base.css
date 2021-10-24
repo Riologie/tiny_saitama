@@ -57,7 +57,7 @@
      display: inline-block;
 }
  ::-moz-selection {
-     background: #fab915;
+     background: #df628a;
      color: #ffffff;
 }
 /* End reset & basics (Inspired by E. Meyers) */
@@ -141,11 +141,11 @@
      color: #252525;
 }
  a {
-     color: #fab915;
+     color: #df628a;
      font-weight: 700;
 }
  a.cl-secondary{
-     color: #fab915;
+     color: #df628a;
 }
  .span{
      font-size: .75em;
@@ -249,7 +249,7 @@
      position: fixed;
      width: 3.425em;
      height: 3.425em;
-     background: #fab915;
+     background: #df628a;
      border-radius: 50%;
      text-align: center;
      right: 1.875em;
@@ -259,7 +259,7 @@
      color: #ffffff;
 }
  .cl-1{
-     color: #fab915;
+     color: #df628a;
 }
  .cl-2{
      color: #bf3654;
@@ -416,7 +416,7 @@
      position: relative;
      color: #ffffff;
      padding: .7em 2.9567em;
-     background: #fab915;
+     background: #df628a;
      text-transform: uppercase;
      font-size: .8em;
      font-weight: 700;
@@ -426,7 +426,7 @@
      background: #bf3654;
 }
  .but:hover {
-     background: #ffc845;
+     background: #f0948b;
 }
  .but.bg-secondary:hover {
      background: #cf3c5c;
