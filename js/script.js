@@ -131,8 +131,8 @@
         states: {
             "default-state": {
                 gradients: [
-                    ['#ffc845', '#bf3654'],
-                    ['#f58770', '#bf3654']
+                    ['#93c5e9', '#aedbbe'],
+                    ['#f2c9d5', '#df896c']
                 ],
                 transitionSpeed: 2000
             }
@@ -147,8 +147,8 @@
         states: {
             "default-state": {
                 gradients: [
-                    ['#ffc845', '#bf3654'],
-                    ['#f58770', '#bf3654']
+                    ['#93c5e9', '#aedbbe'],
+                    ['#f2c9d5', '#df896c']
                 ],
                 transitionSpeed: 2000
             }
